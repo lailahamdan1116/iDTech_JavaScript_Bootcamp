@@ -1,0 +1,2 @@
+ TODO: The program has error message in the console. You should read the message and debug accordingly. The final 
+ * goal is to print out a student ID for each student to the console. The ID numbers should be from 0 to 4.
