@@ -1,2 +1,2 @@
 # JavaScript Bootcamp
-This is my repository for Javascript Bootcamp with iDTech
+This is my repository for Javascript Bootcamp with iDTech.
