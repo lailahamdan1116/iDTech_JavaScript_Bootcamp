@@ -3,7 +3,7 @@
 
 
 
-var fortune = 10;
+var fortune = 1;
 
 // TODO: Create a fortune teller game using conditional statements and comparison operators.
 // Conditions
@@ -13,7 +13,7 @@ var fortune = 10;
 // 4. If the fortune is out of range, then the fortune can't be read correctly.
 
 // YOUR CODE GOES HERE
-if(fortune <= 0 && fortune <= 3){
+if(fortune >= 0 && fortune <= 3){
     console.log("Sorry! You have bad fortune :(");
 }
 else if(fortune > 3 && fortune <=7){
